@@ -1,1 +1,2 @@
-# note
+# t6d's Pentest Note
+Đây là nơi chứa note của t6d về học tập, làm lab, làm ctf... 

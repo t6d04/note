@@ -11,10 +11,14 @@
             "id": "0c377b9feedce971",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "README"
             }
           }
         ]
@@ -153,13 +157,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "057872e80bec812c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da51b106fff91c6c",
+  "active": "0c377b9feedce971",
   "lastOpenFiles": [
     "README.md"
   ]
