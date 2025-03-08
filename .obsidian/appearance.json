@@ -1,6 +1,6 @@
 {
   "cssTheme": "Things",
-  "enabledCssSnippets": [
-    "Daily Note Themes"
-  ]
+  "enabledCssSnippets": [],
+  "accentColor": "#008f85",
+  "baseFontSize": 17
 }

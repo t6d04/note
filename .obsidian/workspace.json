@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "85e6841faa62b29d",
+        "id": "67b0bbaeed5ad975",
         "type": "tabs",
         "children": [
           {
-            "id": "0c377b9feedce971",
+            "id": "d26e69bbc4db04b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "chesse-ctf.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chesse-ctf"
+            }
+          },
+          {
+            "id": "f84049c2bc8ededc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basic-pentesting-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "basic-pentesting-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,10 +56,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Trình duyệt tệp"
+              "title": "Files"
             }
           },
           {
@@ -94,16 +109,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chesse-ctf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Liên kết đến của chesse-ctf"
             }
           },
           {
@@ -112,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "PHP Filter Chain.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liên kết đi ra"
+              "title": "Outgoing links from PHP Filter Chain"
             }
           },
           {
@@ -140,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "basic-pentesting-1.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Outline of basic-pentesting-1"
             }
           },
           {
@@ -177,18 +195,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Mở bộ chuyển đổi nhanh": false,
-      "graph:Mở xem biểu đồ": false,
-      "canvas:Tạo bảng mới": false,
-      "daily-notes:Mở ghi chú hôm nay": false,
-      "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0c377b9feedce971",
+  "active": "f84049c2bc8ededc",
   "lastOpenFiles": [
-    "README.md"
+    "resources/Pasted image 20250308115916.png",
+    "resources/Pasted image 20250308115753.png",
+    "resources/Pasted image 20250308112457.png",
+    "resources/Pasted image 20250308112412.png",
+    "resources/Pasted image 20250308111137.png",
+    "resources/Pasted image 20250308111051.png",
+    "resources/Pasted image 20250308110439.png",
+    "smol.md",
+    "resources/Pasted image 20250305002513.png",
+    "resources/Pasted image 20250304174625.png",
+    "resources/Pasted image 20250304171908.png",
+    "resources/Pasted image 20250304171730.png",
+    "chesse-ctf.md",
+    "Untitled",
+    "PHP Filter Chain.md",
+    "Byte order mark.md",
+    "().md",
+    "README.md",
+    "picoctf-trickster.md",
+    "pre-rendering.md",
+    "enumeration-and-bruteforce.md",
+    "light.md",
+    "oauth-vulnerabilities.md",
+    "basic-pentesting-1.md",
+    "sqli.md",
+    "the-sticker-shop.md",
+    "tools.md",
+    "active-directory-basic.md",
+    "picoctf-soap.md",
+    "search-skills.md",
+    "session-management.md",
+    "resources"
   ]
 }
